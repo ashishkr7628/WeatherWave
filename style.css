@@ -6,8 +6,8 @@
 }
 
 body {
-    background-image: url(8415954.jpg);
-    background-size: cover;
+    background-image: URL(8415954.jpg);
+    background-size cover;
     background-repeat: none;
     overflow: hidden;
     
